@@ -1,2 +1,2 @@
 # memory-to-cloudwatch
-Node.js package to publish memory statistics to AWS CloudWatch
+Gathers and publishes memory statistics to AWS CloudWatch
