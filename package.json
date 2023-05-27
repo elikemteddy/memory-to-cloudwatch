@@ -1,0 +1,27 @@
+{
+  "name": "memory-to-cloudwatch",
+  "version": "1.0.0",
+  "description": "Gathers and publishes memory statistics to AWS CloudWatch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elikemteddy/memory-to-cloudwatch.git"
+  },
+  "keywords": [
+    "memory-to-cloudwatch",
+    "memory-usage-to-cloudwatch",
+    "memory",
+    "usage",
+    "to",
+    "cloudwatch"
+  ],
+  "author": "Theodore Elikem Attigah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elikemteddy/memory-to-cloudwatch/issues"
+  },
+  "homepage": "https://github.com/elikemteddy/memory-to-cloudwatch#readme"
+}
