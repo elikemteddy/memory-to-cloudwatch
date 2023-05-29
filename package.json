@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/elikemteddy/memory-to-cloudwatch/issues"
   },
-  "homepage": "https://github.com/elikemteddy/memory-to-cloudwatch#readme"
+  "homepage": "https://github.com/elikemteddy/memory-to-cloudwatch#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1386.0"
+  }
 }
